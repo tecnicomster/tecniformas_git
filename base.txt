@@ -1,0 +1,11 @@
+S7x[VPMBa3b6
+tecnifor_sia
+
+cPanel Control Panel: http://72.29.67.226/cpanel/
+cPanel Username: tecnifor
+cPanel Password: u.7390Ekq,
+
+FTP Server: 72.29.67.226
+FTP Username: tecnifor
+FTP Password: u.7390Ekq,
+Home/Publishing Folder: /public_html/
