@@ -9,3 +9,5 @@ FTP Server: 72.29.67.226
 FTP Username: tecnifor
 FTP Password: u.7390Ekq,
 Home/Publishing Folder: /public_html/
+
+hola mundo
